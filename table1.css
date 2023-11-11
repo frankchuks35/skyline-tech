@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+table{
+    width: 70%;
+    margin: auto;
+}
+
+table, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+    height: 60px;
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid;
+}
+
+th{
+    background-color: dodgerblue;
+    color: white;
+}
+.tick{
+    color: green;
+    font-size: 18px;
+    padding-left: 5px;
+}
+
+.ex{
+    color: red;
+    font-size: 16px;
+    padding-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
