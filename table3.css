@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    padding-top: 50px;
+}
+
+
+
+table{
+    width: 70%;
+    margin: auto;
+    
+}
+
+table, th, td {
+    
+    border-collapse: collapse;
+    height: 60px;
+    text-align: center;
+     border: none; 
+    border-top: 1px solid gray;
+}
+
+th{
+    background-color: dodgerblue;
+    color: white;
+}
+
+caption{
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: orange;
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 20px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
